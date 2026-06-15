@@ -44,27 +44,34 @@ I enjoy building hands-on cybersecurity labs, analyzing Windows and network tele
 
 ## Cybersecurity Portfolio
 
-### Featured Projects
+I maintain a dedicated cybersecurity portfolio that showcases hands-on investigations, threat hunting exercises, Windows log analysis, and network security projects developed in a home lab environment.
 
-🔹 Windows Failed Login Investigation
+Portfolio Repository:
 
-Investigation of Windows Event ID 4625 authentication failures and security log analysis.
+[Cybersecurity Portfolio](https://github.com/juancarranza-cyber/Cybersecurity-Portfolio)
 
-🔹 Sysmon Process Creation Investigation
+Projects currently featured in the portfolio include:
 
-Analysis of Sysmon Event ID 1 process creation activity and command-line monitoring.
+* Windows Failed Login Investigation
+* Sysmon Process Creation Investigation
+* Sysmon Process Tree Investigation
+* Nmap Network Scan Analysis
+* DNS Traffic Investigation with Wireshark
 
-🔹 Sysmon Process Tree Investigation
+These projects demonstrate practical experience in:
 
-Threat hunting exercise focused on parent-child process relationships and process execution chains.
+* Windows Security Monitoring
+* Sysmon Analysis
+* Threat Hunting
+* Log Analysis
+* Network Traffic Analysis
+* Wireshark
+* Nmap
+* DNS Investigation
+* Incident Investigation Methodologies
+* SOC-Oriented Security Monitoring
 
-🔹 Nmap Network Scan Analysis
-
-Network reconnaissance investigation using Nmap and Wireshark.
-
-🔹 DNS Traffic Investigation with Wireshark
-
-DNS monitoring and packet analysis focused on domain resolution activity.
+Additional projects and certifications will be added as my cybersecurity journey continues.
 
 ---
 
