@@ -1,43 +1,46 @@
-# Hi, I'm Juan Jose Carranza 👋
+# Hi, I'm Juan José Carranza 👋
 
-## Cybersecurity Graduate | Aspiring SOC Analyst
+## Cybersecurity Graduate | SOC Analyst Enthusiast
 
-Recent Cybersecurity graduate passionate about Security Operations, Threat Hunting, Network Analysis, and Incident Investigation.
+Cybersecurity graduate with hands-on experience in security monitoring, threat hunting, network analysis, and incident investigation. Passionate about Blue Team operations, Security Operations Centers (SOC), and continuous learning through practical cybersecurity labs.
 
-I enjoy building hands-on cybersecurity labs, analyzing Windows and network telemetry, and developing practical skills through real-world investigations using tools such as Sysmon, Wireshark, Nmap, and Windows Event Viewer.
+I enjoy building home lab environments, investigating security events, analyzing network traffic, and developing technical skills using industry-standard tools and methodologies.
 
 ---
 
 ## Technical Skills
 
-### Security Monitoring & Threat Hunting
+### Security Operations & Threat Hunting
 
-* Sysmon
 * Windows Event Viewer
-* Log Analysis
+* Sysmon
 * Authentication Monitoring
 * Process Investigation
 * Threat Hunting Fundamentals
+* Log Analysis
 
 ### Network Security
 
 * Wireshark
 * Nmap
+* Cisco Networking
+* TCP/IP
 * DNS Analysis
-* TCP/IP Fundamentals
-* Traffic Monitoring
-* Packet Analysis
+* Packet Inspection
+* Network Monitoring
 
-### Operating Systems
+### Systems Administration
 
 * Windows
 * Linux
 * Kali Linux
+* VirtualBox
+* VMware
 
-### Programming & Scripting
+### Programming & Databases
 
 * Python
-* Basic Automation
+* Basic DevOps Automation
 * MySQL
 
 ---
@@ -48,9 +51,9 @@ I maintain a dedicated cybersecurity portfolio that showcases hands-on investiga
 
 Portfolio Repository:
 
-[Cybersecurity Portfolio](https://github.com/juancarranza-cyber/Cybersecurity-Portfolio)
+➡️ [Cybersecurity Portfolio](https://github.com/juancarranza-cyber/Cybersecurity-Portfolio)
 
-Projects currently featured in the portfolio include:
+Featured projects include:
 
 * Windows Failed Login Investigation
 * Sysmon Process Creation Investigation
@@ -60,38 +63,39 @@ Projects currently featured in the portfolio include:
 
 These projects demonstrate practical experience in:
 
-* Windows Security Monitoring
-* Sysmon Analysis
+* Security Monitoring
+* Windows Log Analysis
 * Threat Hunting
-* Log Analysis
 * Network Traffic Analysis
 * Wireshark
+* Sysmon
 * Nmap
-* DNS Investigation
-* Incident Investigation Methodologies
-* SOC-Oriented Security Monitoring
-
-Additional projects and certifications will be added as my cybersecurity journey continues.
-
----
-
-## Current Learning Goals
-
-* Security Operations Center (SOC) Methodologies
-* Threat Hunting Techniques
-* Microsoft Azure Fundamentals
-* AWS Cloud Fundamentals
-* SIEM Technologies (Wazuh)
-* Incident Response
+* Incident Investigation
+* SOC Methodologies
 
 ---
 
 ## Certifications
 
-* Security Pro - Strengthen Security Foundations
-* Cybersecurity Degree Graduate
+* Cisco CyberOps Associate
+* Cybersecurity Essentials
+* CCNA: Enterprise Networking, Security, and Automation
+* CCNA: Switching, Routing, and Wireless Essentials
+* CCNA: Introduction to Networks
+* PCAP: Programming Essentials in Python
+* NDG Linux Essentials
+* NDG Linux I
 
-(Add additional certifications as you earn them)
+---
+
+## Current Learning Goals
+
+* SOC Operations
+* Incident Response
+* Wazuh SIEM
+* Microsoft Azure Fundamentals
+* Cloud Security
+* Advanced Threat Hunting
 
 ---
 
