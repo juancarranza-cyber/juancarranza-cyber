@@ -1,10 +1,12 @@
 # Hi, I'm Juan José Carranza 👋
 
-## Cybersecurity Graduate | SOC Analyst Enthusiast
+## Cybersecurity Graduate
 
-Cybersecurity graduate with hands-on experience in security monitoring, threat hunting, network analysis, and incident investigation. Passionate about Blue Team operations, Security Operations Centers (SOC), and continuous learning through practical cybersecurity labs.
+Cybersecurity graduate with hands-on experience in security monitoring, network analysis, system administration, and cybersecurity investigations.
 
-I enjoy building home lab environments, investigating security events, analyzing network traffic, and developing technical skills using industry-standard tools and methodologies.
+Through academic training, industry certifications, and practical home lab projects, I have developed skills in Windows security, Linux administration, network traffic analysis, threat detection, and cybersecurity operations.
+
+I enjoy building cybersecurity labs, analyzing security events, investigating network activity, and continuously expanding my knowledge through hands-on learning and certifications.
 
 ---
 
