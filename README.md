@@ -99,15 +99,15 @@ Additional projects and certifications will be added as my cybersecurity journey
 
 ### GitHub
 
-https://github.com/Ghostt2057
+https://github.com/juancarranza-cyber
 
 ### LinkedIn
 
-(Add your LinkedIn profile URL)
+linkedin.com/in/juanjosecarranzamarin
 
 ### Email
 
-(Add your professional email)
+juanjosecm2005@gmail.com
 
 ---
 
