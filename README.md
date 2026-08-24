@@ -1,4 +1,3 @@
-![Lluvia Matrix](https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg" alt="Lluvia Matrix" width="800" />
 </p>
