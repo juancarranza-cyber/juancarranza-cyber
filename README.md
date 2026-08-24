@@ -1,5 +1,7 @@
 ![Lluvia Matrix](https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg" alt="Lluvia Matrix" width="800" />
+</p>
 ## Cybersecurity Graduate
 
 Cybersecurity graduate with hands-on experience in security monitoring, network analysis, system administration, and cybersecurity investigations.
