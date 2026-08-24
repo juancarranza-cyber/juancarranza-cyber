@@ -1,4 +1,4 @@
-![Lluvia Matrix](https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain (1).svg)
+![Lluvia Matrix](https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg)
 
 ## Cybersecurity Graduate
 
