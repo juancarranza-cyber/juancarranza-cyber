@@ -175,7 +175,8 @@ Supervised practical experience analyzing security events and detections in a<br
 <h2 align="center">📶 <code>ping github-stats</code></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juancarranza-cyber&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juancarranza-cyber&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" alt="GitHub Stats" />
+  dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
