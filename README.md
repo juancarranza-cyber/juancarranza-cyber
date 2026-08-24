@@ -1,7 +1,7 @@
 # Hi, I'm Juan José Carranza 👋
 
 ## Cybersecurity Graduate
-
+![Lluvia Matrix](https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg)
 Cybersecurity graduate with hands-on experience in security monitoring, network analysis, system administration, and cybersecurity investigations.
 
 Through academic training, industry certifications, practical home lab projects, and supervised cybersecurity experience, I have developed skills in Windows security, Linux administration, network traffic analysis, threat detection, security event analysis, and cybersecurity operations.
