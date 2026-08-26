@@ -47,7 +47,7 @@ investigating Windows processes, process trees, parent-child relationships, and 
 <h3 align="center">🔎 Security Operations & Threat Hunting</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/CrowdStrike_Falcon-000000?style=flat-square&logo=crowdstrike&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Next--Gen_SIEM-000000?style=flat-square&logo=splunk&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Next--Gen_SIEM_(CrowdStrike)-000000?style=flat-square&logo=crowdstrike&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Windows_Event_Viewer-000000?style=flat-square&logo=windows&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Sysmon-000000?style=flat-square&logo=windows&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Threat_Hunting-000000?style=flat-square&logo=target&logoColor=00FF41" />
