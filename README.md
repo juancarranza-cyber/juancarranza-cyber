@@ -1,3 +1,28 @@
+
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+</tr>
+</table>
+
+</div>
+
+
+
 <img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg" alt="Matrix Rain" width="1100" />
 
 <br/>
