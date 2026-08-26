@@ -85,7 +85,6 @@ investigating Windows processes, process trees, parent-child relationships, and 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" />
 </p>
 
