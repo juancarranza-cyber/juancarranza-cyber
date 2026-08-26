@@ -2,7 +2,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+Juan+Jos%C3%A9+Carranza;role%3A+Cybersecurity+Analyst;status%3A+Threat+Hunting+%7C+SOC+%7C+Blue+Team;access_granted...)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+Juan+Jos%C3%A9+Carranza;role%3A+Cybersecurity+Analyst;status%3A+Threat+Hunting+%7C+SOC+%7C+Blue+Team;access_granted...)](https://git.io/typing-svg)
 
 </div>
 
