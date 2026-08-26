@@ -39,19 +39,6 @@
 <img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/about_me_terminal.svg" alt="About Me Terminal" width="760" />
 </p>
 
-
-<h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
-
-<p align="center">
-Cybersecurity graduate with hands-on experience in security monitoring, network analysis,<br/>
-system administration, and cybersecurity investigations.
-</p>
-
-<p align="center">
-Practical experience with <b>CrowdStrike Falcon</b> and <b>Next-Gen SIEM</b>, analyzing security events and detections,<br/>
-investigating Windows processes, process trees, parent-child relationships, and command-line activity.
-</p>
-
 <br/>
 
 ---
