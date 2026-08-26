@@ -174,15 +174,6 @@ Supervised practical experience analyzing security events and detections in a<br
 
 ---
 
-
-<h2 align="center">📶 <code>ping github-stats</code></h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juancarranza-cyber&theme=dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="center">📞 <code>connect --to juancarranza-cyber</code></h2>
 
 <p align="center">
