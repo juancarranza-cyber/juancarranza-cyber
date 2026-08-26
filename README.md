@@ -193,11 +193,9 @@ Supervised practical experience analyzing security events and detections in a<br
 
 <div align="center">
 
-```
-"Continuous learning, practical experience, and curiosity are the foundations of cybersecurity."
-```
+*"Continuous learning, practical experience, and curiosity are the foundations of cybersecurity."*
 
-
+</div>
 
 
 
