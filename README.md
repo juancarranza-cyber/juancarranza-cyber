@@ -35,6 +35,11 @@
 
 <h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
 
+<h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
+Cybersecurity Engineering student currently completing the TCU at MICITT  Dirección de Ciberseguridad, with the TCU being the remaining requirement for completion of the Bachelor’s Degree in Computer Security Engineering. Practical experience in cybersecurity monitoring, security alert analysis, log analysis, vulnerability management, endpoint security, and technical documentation. Currently expanding my knowledge and practical skills across different areas of cybersecurity.
+<p align="center">
+
+
 <p align="center">
 Cybersecurity graduate with hands-on experience in security monitoring, network analysis,<br/>
 system administration, and cybersecurity investigations.
