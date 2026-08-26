@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="447" viewBox="0 0 760 447">
+
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="0.8" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+</defs>
+
+<rect x="10" y="10" width="740" height="427" rx="8" fill="#0a0a0a" stroke="#00ff41" stroke-width="1.5"/>
+<rect x="10" y="10" width="740" height="28" rx="8" fill="#111111"/>
+<rect x="10" y="30" width="740" height="8" fill="#111111"/>
+<circle cx="30" cy="24" r="5" fill="#ff5f56"/>
+<circle cx="48" cy="24" r="5" fill="#ffbd2e"/>
+<circle cx="66" cy="24" r="5" fill="#27c93f"/>
+<text x="380.0" y="28" text-anchor="middle" font-family="monospace" font-size="12" fill="#666666">about_me.txt</text>
+<g font-family="monospace" font-size="14" fill="#00ff41" filter="url(#glow)">
+<text x="26" y="55" opacity="0" font-weight="bold">$ cat about_me.txt<animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.30s" fill="freeze"/></text>
+<text x="26" y="77" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.48s" fill="freeze"/></text>
+<text x="26" y="99" opacity="0">Cybersecurity Engineering student currently completing the TCU at MICITT -<animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.66s" fill="freeze"/></text>
+<text x="26" y="121" opacity="0">Direccion de Ciberseguridad, the remaining requirement for completion of<animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.84s" fill="freeze"/></text>
+<text x="26" y="143" opacity="0">the Bachelor's Degree in Computer Security Engineering.<animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.02s" fill="freeze"/></text>
+<text x="26" y="165" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.20s" fill="freeze"/></text>
+<text x="26" y="187" opacity="0">> Practical experience in:<animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.38s" fill="freeze"/></text>
+<text x="26" y="209" opacity="0">    - Cybersecurity Monitoring<animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.56s" fill="freeze"/></text>
+<text x="26" y="231" opacity="0">    - Security Alert Analysis<animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.74s" fill="freeze"/></text>
+<text x="26" y="253" opacity="0">    - Log Analysis<animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.92s" fill="freeze"/></text>
+<text x="26" y="275" opacity="0">    - Vulnerability Management<animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.10s" fill="freeze"/></text>
+<text x="26" y="297" opacity="0">    - Endpoint Security<animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.28s" fill="freeze"/></text>
+<text x="26" y="319" opacity="0">    - Technical Documentation<animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.46s" fill="freeze"/></text>
+<text x="26" y="341" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.64s" fill="freeze"/></text>
+<text x="26" y="363" opacity="0">> Status: Currently expanding knowledge and practical skills across<animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.82s" fill="freeze"/></text>
+<text x="26" y="385" opacity="0">  different areas of cybersecurity.<animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.00s" fill="freeze"/></text>
+<rect x="26" y="395" width="9" height="14" fill="#00ff41" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="3.18s" fill="freeze"/><animate attributeName="opacity" values="1;1;0;0" dur="1s" begin="3.18s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
