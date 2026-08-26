@@ -35,28 +35,9 @@
 
 <h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
 
-```
-$ cat about_me.txt
-
-Cybersecurity Engineering student currently completing the TCU at MICITT -
-Direccion de Ciberseguridad, the remaining requirement for completion of
-the Bachelor's Degree in Computer Security Engineering.
-
-> Practical experience in:
-    - Cybersecurity Monitoring
-    - Security Alert Analysis
-    - Log Analysis
-    - Vulnerability Management
-    - Endpoint Security
-    - Technical Documentation
-
-> Status: Currently expanding knowledge and practical skills across
-  different areas of cybersecurity.
-
-$ _
-```
-
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/about_me_terminal.svg" alt="About Me Terminal" width="760" />
+</p>
 
 <h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
 
