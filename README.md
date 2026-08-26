@@ -43,7 +43,11 @@ Practical experience with <b>CrowdStrike Falcon</b> and <b>Next-Gen SIEM</b>, an
 investigating Windows processes, process trees, parent-child relationships, and command-line activity.
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">⚙️ <code>ls technical_skills/</code></h2>
 
@@ -91,7 +95,11 @@ investigating Windows processes, process trees, parent-child relationships, and 
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">📁 <code>./run portfolio.sh</code></h2>
 
@@ -116,7 +124,11 @@ Windows log analysis, process investigations, network security projects, and vul
 - 🧪 Windows and Linux Security Laboratory
 - 🛡️ Vulnerability Assessment with Nessus Essentials
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">🕵️ <code>tail -f soc_activity.log</code></h2>
 
@@ -135,7 +147,11 @@ Supervised practical experience analyzing security events and detections in a<br
 - Distinguishing legitimate activity from activity requiring further investigation
 - Documenting technical findings and investigation steps
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">🎓 <code>cat certifications.txt</code></h2>
 
@@ -160,7 +176,11 @@ Supervised practical experience analyzing security events and detections in a<br
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">📡 <code>echo $LEARNING_GOALS</code></h2>
 
@@ -174,7 +194,11 @@ Supervised practical experience analyzing security events and detections in a<br
 <img src="https://img.shields.io/badge/Linux_Security-000000?style=flat-square&logo=linux&logoColor=00FF41" />
 </p>
 
+<br/>
+
 ---
+
+<br/>
 
 <h2 align="center">📞 <code>connect --to juancarranza-cyber</code></h2>
 
