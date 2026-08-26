@@ -1,32 +1,8 @@
-<table align="center">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
-<td align="center"><img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
-<td align="center"><img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" /></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
-<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
-</tr>
-</table>
-
-</div>
-
-
-
-
 <img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/matrix_rain.svg" alt="Matrix Rain" width="1100" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+Juan+Jos%C3%A9+Carranza;role%3A+Cybersecurity+Analyst;status%3A+Threat+Hunting+%7C+SOC+%7C+Blue+Team;access_granted...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.comfont=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+Juan+Jos%C3%A9+Carranza;role%3A+Cybersecurity+Analyst;status%3A+Threat+Hunting+%7C+SOC+%7C+Blue+Team;access_granted...)](https://git.io/typing-svg)
 
 </div>
 
@@ -159,20 +135,30 @@ Supervised practical experience analyzing security events and detections in a<br
 
 <h2 align="center">🎓 <code>cat certifications.txt</code></h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-</p>
+<h2 align="center">🎓 <code>cat certifications.txt</code></h2>
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
