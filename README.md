@@ -1,5 +1,3 @@
-
-
 <table align="center">
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
@@ -20,6 +18,7 @@
 </table>
 
 </div>
+
 
 
 
