@@ -58,7 +58,7 @@ investigating Windows processes, process trees, parent-child relationships, and 
 
 <h3 align="center">🌐 Network Security</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF41" height="35"  />
 <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Cisco_Networking-000000?style=flat-square&logo=cisco&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=flat-square&logo=iconify&logoColor=00FF41" />
