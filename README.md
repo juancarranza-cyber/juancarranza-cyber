@@ -30,7 +30,6 @@
 ---
 
 <br/>
----
 
 <h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
 
