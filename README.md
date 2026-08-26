@@ -47,7 +47,6 @@ investigating Windows processes, process trees, parent-child relationships, and 
 <h3 align="center">🔎 Security Operations & Threat Hunting</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/CrowdStrike-000000?style=flat-square&logo=crowdstrike&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Next--Gen_SIEM_(CrowdStrike)-000000?style=flat-square&logo=crowdstrike&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Windows_Event_Viewer-000000?style=flat-square&logo=windows&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Sysmon-000000?style=flat-square&logo=windows&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Threat_Hunting-000000?style=flat-square&logo=target&logoColor=00FF41" />
@@ -78,7 +77,6 @@ investigating Windows processes, process trees, parent-child relationships, and 
 
 <h3 align="center">🛡️ Vulnerability Management</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Nessus_Essentials-000000?style=flat-square&logo=tenable&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Vulnerability_Assessment-000000?style=flat-square&logo=shieldsdotio&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Remediation-000000?style=flat-square&logo=todoist&logoColor=00FF41" />
 </p>
@@ -88,7 +86,6 @@ investigating Windows processes, process trees, parent-child relationships, and 
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" />
 </p>
 
