@@ -187,9 +187,6 @@ Supervised practical experience analyzing security events and detections in a<br
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juancarranza-cyber&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-</p>
 
 <div align="center">
 
