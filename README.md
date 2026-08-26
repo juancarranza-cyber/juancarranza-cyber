@@ -159,7 +159,6 @@ Supervised practical experience analyzing security events and detections in a<br
 <p align="center">
 <img src="https://img.shields.io/badge/SOC_Operations-000000?style=flat-square&logo=shieldsdotio&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Incident_Response-000000?style=flat-square&logo=alertmanager&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Wazuh_SIEM-000000?style=flat-square&logo=wazuh&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals-000000?style=flat-square&logo=microsoftazure&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Cloud_Security-000000?style=flat-square&logo=icloud&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Threat_Hunting-000000?style=flat-square&logo=target&logoColor=00FF41" />
