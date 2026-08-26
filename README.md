@@ -25,7 +25,8 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
   </a>
 </p>
-
+<br/>
+<br/>
 ---
 
 <h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
