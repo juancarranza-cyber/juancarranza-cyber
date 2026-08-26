@@ -1,18 +1,23 @@
-
 <h2 align="center">🎓 <code>cat certifications.txt</code></h2>
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
-<br/>
-<img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
-</p>
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Cisco_CyberOps_Associate-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Cybersecurity_Essentials-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Enterprise%2C_Security_%26_Automation-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Switching%2C_Routing_%26_Wireless-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CCNA_Introduction_to_Networks-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/PCAP_Python_Essentials-000000?style=for-the-badge&logo=python&logoColor=00FF41" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_Essentials-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+<td align="center"><img src="https://img.shields.io/badge/NDG_Linux_I-000000?style=for-the-badge&logo=linux&logoColor=00FF41" /></td>
+</tr>
+</table>
 
 
 <div align="center">
