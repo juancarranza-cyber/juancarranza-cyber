@@ -34,7 +34,11 @@
 <br/>
 
 
+<h2 align="center">🖥️ <code>cat about_me.txt</code></h2>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/juancarranza-cyber/juancarranza-cyber/main/about_me_terminal.svg" alt="About Me Terminal" width="760" />
+</p>
 
 
 
