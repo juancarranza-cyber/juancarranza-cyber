@@ -112,9 +112,6 @@ Windows log analysis, process investigations, network security projects, and vul
 
 **Featured projects:**
 
-- 🔐 Windows Failed Login Investigation
-- 🧬 Sysmon Process Creation Investigation
-- 🌳 Sysmon Process Tree Investigation
 - 📡 Nmap Network Scan Analysis
 - 🌍 DNS Traffic Investigation with Wireshark
 - 🧪 Windows and Linux Security Laboratory
