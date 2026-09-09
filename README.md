@@ -11,14 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" alt="Status"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ANALYST-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" alt="Role"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000" alt="Location"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/juanjosecarranzamarin" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
   </a>
