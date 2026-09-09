@@ -94,6 +94,7 @@
 <br/>
 
 ---
+
 <br/>
 
 <h2 align="center">📁 <code>./run portfolio.sh</code></h2>
@@ -109,13 +110,39 @@ network traffic analysis, reconnaissance detection, DNS investigation, and SOC o
   </a>
 </p>
 
-**Featured projects:**
+<br/>
 
-* 📡 Nmap Network Scan Analysis
-* 🌐 DNS Traffic Investigation with Wireshark
-* 🛡️ Microsoft Sentinel SOC Investigation Lab
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📡 Nmap Network Scan Analysis</h3>
+      <p>Network reconnaissance and TCP traffic analysis using Nmap and Wireshark.</p>
+      <a href="https://github.com/juancarranza-cyber/nmap-network-scan-analysis">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 DNS Traffic Investigation</h3>
+      <p>DNS query and response analysis using Wireshark in a defensive security context.</p>
+      <a href="https://github.com/juancarranza-cyber/DNS-Traffic-Investigation-Wireshark">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <h3>🛡️ Microsoft Sentinel SOC Investigation Lab</h3>
+      <p>SIEM-based SOC investigation project using Microsoft Sentinel, Azure, and KQL.</p>
+      <a href="https://github.com/juancarranza-cyber/SOC-Sentinel-Lab">
+        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
 
 ---
 
