@@ -94,14 +94,13 @@
 <br/>
 
 ---
-
 <br/>
 
 <h2 align="center">📁 <code>./run portfolio.sh</code></h2>
 
 <p align="center">
-Dedicated cybersecurity portfolio with hands-on investigations, threat hunting exercises,<br/>
-Windows log analysis, process investigations, network security projects, and vulnerability assessments.
+Dedicated cybersecurity portfolio featuring hands-on projects focused on<br/>
+network traffic analysis, reconnaissance detection, DNS investigation, and SOC operations.
 </p>
 
 <p align="center">
@@ -112,10 +111,9 @@ Windows log analysis, process investigations, network security projects, and vul
 
 **Featured projects:**
 
-- 📡 Nmap Network Scan Analysis
-- 🌍 DNS Traffic Investigation with Wireshark
-- 🧪 Windows and Linux Security Laboratory
-- 🛡️ Vulnerability Assessment with Nessus Essentials
+* 📡 Nmap Network Scan Analysis
+* 🌐 DNS Traffic Investigation with Wireshark
+* 🛡️ Microsoft Sentinel SOC Investigation Lab
 
 <br/>
 
