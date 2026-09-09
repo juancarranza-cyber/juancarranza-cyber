@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanjosecarranzamarin" style="text-decoration:none">
+  <a href="www.linkedin.com/in/juanjosecarranzamarin" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
