@@ -11,17 +11,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juanjosecarranzamarin">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/juanjosecarranzamarin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:juanjosecm2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:juanjosecm2005@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/juancarranza-cyber/Cybersecurity-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="Portfolio"/>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/juancarranza-cyber/Cybersecurity-Portfolio" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
   </a>
+
 </p>
 
 ---
