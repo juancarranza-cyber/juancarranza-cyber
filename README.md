@@ -106,7 +106,7 @@ network traffic analysis, reconnaissance detection, DNS investigation, and SOC o
 
 <p align="center">
   <a href="https://github.com/juancarranza-cyber/Cybersecurity-Portfolio">
-    <img src="https://img.shields.io/badge/%E2%9E%A1%20OPEN%20PORTFOLIO-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/static/v1?label=&message=%E2%9E%A1%20OPEN%20PORTFOLIO&color=00FF41&style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
