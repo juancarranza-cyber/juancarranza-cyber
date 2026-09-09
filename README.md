@@ -106,7 +106,7 @@ network traffic analysis, reconnaissance detection, DNS investigation, and SOC o
 
 <p align="center">
   <a href="https://github.com/juancarranza-cyber/Cybersecurity-Portfolio">
-    <img src="https://img.shields.io/badge/%E2%9E%A1%20OPEN%20PORTFOLIO-00FF41?style=for-the-badge&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/%E2%9E%A1%20OPEN%20PORTFOLIO-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
   </a>
 </p>
 
@@ -116,27 +116,27 @@ network traffic analysis, reconnaissance detection, DNS investigation, and SOC o
   <tr>
     <td align="center" width="50%">
       <h3>📡 Nmap Network Scan Analysis</h3>
-      <p>Network reconnaissance and TCP traffic analysis using Nmap and Wireshark.</p>
-      <a href="https://github.com/juancarranza-cyber/nmap-network-scan-analysis">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
-      </a>
+      <p>
+        Network reconnaissance and TCP traffic analysis using<br/>
+        Nmap and Wireshark.
+      </p>
     </td>
     <td align="center" width="50%">
       <h3>🌐 DNS Traffic Investigation</h3>
-      <p>DNS query and response analysis using Wireshark in a defensive security context.</p>
-      <a href="https://github.com/juancarranza-cyber/DNS-Traffic-Investigation-Wireshark">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" />
-      </a>
+      <p>
+        DNS query and response analysis using Wireshark<br/>
+        from a defensive security perspective.
+      </p>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br/>
       <h3>🛡️ Microsoft Sentinel SOC Investigation Lab</h3>
-      <p>SIEM-based SOC investigation project using Microsoft Sentinel, Azure, and KQL.</p>
-      <a href="https://github.com/juancarranza-cyber/SOC-Sentinel-Lab">
-        <img src="https://img.shields.io/badge/OPEN_PROJECT-00FF41?style=for-the-badge&logo=microsoftazure&logoColor=black&labelColor=000000" />
-      </a>
+      <p>
+        SIEM-based SOC investigation project using<br/>
+        Microsoft Sentinel, Azure, and KQL.
+      </p>
     </td>
   </tr>
 </table>
