@@ -3,39 +3,25 @@
 </p>
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ANALYST-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000" />
-
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" alt="Status"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ANALYST-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=000000" alt="Role"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-00FF41?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000" alt="Location"/>
 </p>
 
-<br/>
-
 <p align="center">
-
   <a href="https://www.linkedin.com/in/juanjosecarranzamarin">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:juanjosecm2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://github.com/juancarranza-cyber/Cybersecurity-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="Portfolio"/>
   </a>
-
 </p>
 
 ---
