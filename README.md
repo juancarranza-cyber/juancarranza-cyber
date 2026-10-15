@@ -132,4 +132,3 @@ I am interested in entry-level cybersecurity opportunities where I can contribut
 
 **LinkedIn:** [linkedin.com/in/juanjosecarranzamarin](https://www.linkedin.com/in/juanjosecarranzamarin)  
 **Email:** [juanjosecm2005@gmail.com](mailto:juanjosecm2005@gmail.com)  
-**GitHub:** [github.com/juancarranza-cyber](https://github.com/juancarranza-cyber)
